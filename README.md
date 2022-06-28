@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nvredwolf
-- 👀 I’m interested in fullstack development
+- 👀 I’m interested in web and mobile development
 
 <!---
 nvredwolf/nvredwolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
